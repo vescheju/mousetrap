@@ -1,0 +1,2 @@
+To play use either the MachineDemo.exe or the CanadianExperience.exe
+Both games are different. SpartyAndHaroldMovie can be loaded into CandaianExperience. It will play a simple animation.
